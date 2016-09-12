@@ -1,0 +1,2 @@
+# FOAF
+Semantic Web Assignment

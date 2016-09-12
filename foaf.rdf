@@ -15,6 +15,7 @@
 <foaf:givenname>Phanindra Kumar</foaf:givenname>
 <foaf:family_name>Kannaji</foaf:family_name>
 <foaf:nick>Phani</foaf:nick>
+<foaf:schoolHomepage>http://my.umbc.edu/</foaf:schoolHomepage>
 <foaf:mbox_sha1sum>f505b7f8762c52b6ca3d1a70a34ea1a5b9c338fc</foaf:mbox_sha1sum>
 <foaf:schoolHomepage rdf:resource="University of Maryland, Baltimore County"/>
 <foaf:knows>

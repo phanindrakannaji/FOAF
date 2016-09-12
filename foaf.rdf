@@ -1,0 +1,32 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+<foaf:Person rdf:ID="me">
+<foaf:name>Phanindra Kumar Kannaji</foaf:name>
+<foaf:title>Mr</foaf:title>
+<foaf:givenname>Phanindra Kumar</foaf:givenname>
+<foaf:family_name>Kannaji</foaf:family_name>
+<foaf:nick>Phani</foaf:nick>
+<foaf:mbox_sha1sum>f505b7f8762c52b6ca3d1a70a34ea1a5b9c338fc</foaf:mbox_sha1sum>
+<foaf:schoolHomepage rdf:resource="University of Maryland, Baltimore County"/>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Harika Konagala</foaf:name>
+<foaf:mbox_sha1sum>e62803ae49baa9af7559b38042f5be295040fae8</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Gayathri Kannaji</foaf:name>
+<foaf:mbox_sha1sum>9754ad9ba04cd5b629f25f6db7cbb38b58b9077b</foaf:mbox_sha1sum></foaf:Person></foaf:knows>
+<foaf:knows>
+<foaf:Person>
+<foaf:name>Harsha Konuru</foaf:name>
+<foaf:mbox_sha1sum>0a800fc79bc440706739b11226d2c6530429d3bd</foaf:mbox_sha1sum></foaf:Person></foaf:knows></foaf:Person>
+</rdf:RDF>
